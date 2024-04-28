@@ -37,7 +37,7 @@
 		"cost": 100,
 		"happiness": 100,
 		"isNationalWonder": true, 
-		"uniques": ["[+100] Production [in all cities]","[+170]% Production from every [Manufactory]","[+200]% Food from every [Farm]"], 
+		"uniques": ["[+100 Production] [in all cities]","[+170]% Production from every [Manufactory]","[+200]% Food from every [Farm]"], 
 		"requiredTech": "Writing"
 	}
 ]
