@@ -27,7 +27,7 @@
 		"afterPeace": "Hope you learned your lesson",
 		"tradeRequest": "Let's trade",
 
-		"outerColor": [0,0,128],
+		"outerColor": [14,17,81],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam", 
 		"uniquename": "Militaristic Identity",
