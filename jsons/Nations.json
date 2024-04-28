@@ -31,7 +31,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Islam", 
 		"uniquename": "Militaristic Identity",
-		"uniques": ["[+4] movement <for [Military] units>","Quantity of strategic resources produced by the empire +[300]%", "[+50]% Production when constructing [Military] units [in all cities]","[All] units cost no maintenance","May buy [Settler] units for [1] [Gold] [in all cities]"], 
+		"uniques": ["[+4] movement <for [Military] units>","Quantity of strategic resources produced by the empire +[300]%", "[+50]% Production when constructing [Military] units [in all cities]","[250] units cost no maintenance","May buy [Settler] units for [1] [Gold] [in all cities]"], 
 		"cities": ["Weldia City","Hoburg","Seralia","Excidium","Vorath","Fortis Arcanum","Pyrrhos","Eldoria","Caelum","Verdantia","Nyxos","Mythralis","Aurelia","Strahos","Valorheim","Novum","Fortisopolis","Bastionia","Tychos","Kyrios","Aegisburg","Ironfront","Armadia","Legonia","Gorano"], 
 		"spyNames": ["Johan"]
 	}
