@@ -28,6 +28,7 @@
 		"happiness": 20,
 		"culture": 30,
 		"isNationalWonder": true, 
+		"uniques": ["New [Military] units start with [125] Experience [in all cities]"]
 		"requiredTech": "Construction"
 	}
 ]
