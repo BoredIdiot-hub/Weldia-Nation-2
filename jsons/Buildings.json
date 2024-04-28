@@ -1,15 +1,34 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
+		"name": "Imperial Barracks", 
+		"uniqueTo": "Weldia",
 		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
+		"happiness": 25,
+		"culture": 40,
+		"science": 30,
+		"maintenance": 1,
 		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"requiredBuildingInAllCities": "Barracks",
+		"requiredTech": "Civil Service"
+	},
+        {
+                "name": "The Great Capital Bank", 
+		"uniqieTo": "Weldia", 
+		"cost": 130,
+		"happiness": 30,
+		"culture": 10,
+		"gold": 100,
+		"isNationalWonder": true, 
+		"requiredTech": "Banking"
+	}, 
+	{
+		"name": "Monument of Strength", 
+		"uniqueTo": "Weldia", 
+		"cost": 12,
+		"happiness": 20,
+		"culture": 30,
+		"isNationalWonder": true, 
+		"requiredTech": "Construction"
 	}
 ]
+
