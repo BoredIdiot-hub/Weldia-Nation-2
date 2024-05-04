@@ -37,7 +37,7 @@
 		"cost": 100,
 		"happiness": 100,
 		"isNationalWonder": true, 
-		"uniques": ["[+100 Production] [in all cities]","[+170]% Production from every [Manufactory]","[+200]% Food from every [Farm]"], 
+		"uniques": ["[+300 Production] [in all cities]","[+270]% Production from every [Manufactory]","[+200]% Food from every [Farm]"], 
 		"requiredTech": "Writing"
 	}, 
 	{
@@ -48,7 +48,6 @@
 		"culture": 40,
 		"science": 1000,
 		"maintenance": 1,
-		"isNationalWonder": true, 
 		"requiredTech": "Agriculture"
 	}, 
 	{
@@ -60,7 +59,6 @@
 		"culture": 200,
 		"science": 750,
 		"maintenance": 1,
-		"isNationalWonder": true, 
 		"requiredTech": "Masonry"
 	}
 ]
