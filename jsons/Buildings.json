@@ -39,6 +39,29 @@
 		"isNationalWonder": true, 
 		"uniques": ["[+100 Production] [in all cities]","[+170]% Production from every [Manufactory]","[+200]% Food from every [Farm]"], 
 		"requiredTech": "Writing"
+	}, 
+	{
+		"name": "The Arms Academy", 
+		"uniqueTo": "Weldia",
+		"cost": 480,
+		"happiness": 105,
+		"culture": 40,
+		"science": 1000,
+		"maintenance": 1,
+		"isNationalWonder": true, 
+		"requiredTech": "Agriculture"
+	}, 
+	{
+		"name": "Military Industrial Complex", 
+		"uniqueTo": "Weldia",
+		"cost": 80,
+		"happiness": 100,
+                "production": 2000,
+		"culture": 200,
+		"science": 750,
+		"maintenance": 1,
+		"isNationalWonder": true, 
+		"requiredTech": "Masonry"
 	}
 ]
 
